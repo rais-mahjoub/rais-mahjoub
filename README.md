@@ -3,7 +3,7 @@
 
 Bonjour, je suis Raïs MAHJOUB. Bienvenue sur mon Github !
 
-<img src="" alt="Selfie de Raïs Mahjoub">
+<img src="C:\Users\raisr\Downloads\photo id recadrée (encore).ico" alt="Selfie de Raïs Mahjoub">
 
 <h2>Qui suis-je ?</h2>
 <p>J'ai 20 ans, je suis développeur Web et je travaille à La Plateforme_.</p>
